@@ -3,6 +3,7 @@ DoConnect Application
 
 
 Project Members:
-1.Kartik Goel
-2.Nandagopal D
-3.Shivani Konde
+1.Shivani Konde
+2.Kartik Goel
+3.Nandagopal D
+
